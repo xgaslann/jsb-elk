@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: jsb-elk
+
+  elasticsearch:
+    uris: https://localhost:9200
+    username: elastic
+    password: Aa123456**
+    api-key: SVIwaWZKa0JWOGNLdEtseWlvd1E6WU1oVFNrZEZRTzY3dkdKSjUxc1RxZw==
+
+server:
+  port: 9090
